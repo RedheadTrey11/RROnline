@@ -1,0 +1,5 @@
+{
+"hashURL" : "https://raw.githubusercontent.com/SmokeyTheDudeStudios/RROnline/main/hash.txt",
+"downloadURL" : "https://www.dl.dropboxusercontent.com/s/vdu8frz38hxflq8/RROnline.zip?dl=0",
+"message" : ""
+}
